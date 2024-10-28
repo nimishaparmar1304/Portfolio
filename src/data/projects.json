@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Restaurant Website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "BootStrap", "HTMLs","CSS3"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Tic-Tac-Toe Game",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project to play Tic-Tac--Toe Game.",
+    "skills": ["React", "React Hooks" , "HTML5","CSS3"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/nimishaparmar1304/Tic-Tac-Toe"
+  },
+  {
+    "title": "React Essential",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

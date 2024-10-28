@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Sr FullStack JAVA Developer",
+    "organisation": "RentSync",
+    "startDate": "March, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on IEXSchedule", "Developed internal Application to trade Shifts"]
+    
+  },
+  {
+    "role": "FUllstck JAVA Developer",
+    "organisation": "Vaco",
+    "startDate": "April, 2021",
+    "endDate": "Feb,2023",
+    "experiences": ["Worked on Order Managment Systeme", "Designed and Deeloped a website from scratch"]
+    
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Global Logic",
+    "startDate": "July, 2016",
+    "endDate": "Nov, 2017",
+    "experiences": [
+      "Worked on E-commerce platform",
+      "Helped to test UI components"
+    ]
+  }
+]
